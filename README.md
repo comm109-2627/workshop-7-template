@@ -1,7 +1,7 @@
-Workshop 5
+Workshop 7
 ----------
 
-See workshop 5 instructions file for how to get started. 
+See workshop 7 instructions file for how to get started. 
 
 (If you run into issues refresh the instructions page, as corrections or extra hints maybe added as the session runs).
 
